@@ -1,4 +1,4 @@
-Intro to Trigonometry:
+Trigonometry:
 
 sin A= opposite/hypotenuse(A number between -1 and 1)
 cos A= adjacent/hypotenuse
@@ -8,5 +8,8 @@ tan A= opposite/adjacent
 - Provavelmente porque as telas das TVs liam de cima para baixo, o plano cartesiano é invertido nas telas de computadores, girando no sentido anti-horário do plano cartesiano para encontrar as coordenadas(Para baixo é + e para a direita é +, em cima e esquerda -, isso muda também como usamos os ângulos).
 - Na maioria das linguagens com funções trigonométricas veremos que elas são medidas em radianos e não em graus(1 radian = 57,3°(aproximação)).
 - Se for traçada uma circunferência no plano cartesiano, ela medirá 6,28 radianos cada um com 57,3° ou 2πr, no seu lado oposto 3,14 radianos, 3π/2 em cima e em embaixo π/2 radianos.
+- Para converter graus para radianos e vice-versa:
+	degrees = radians x 180/ π
+	radians = degrees x π/180
 
 
